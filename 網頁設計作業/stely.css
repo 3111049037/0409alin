@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+body{font-family: 'Noto Sans TC', sans-serif;}
+.container  {
+	width: 1000pt;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	text-align: left;
+	border-radius: 10px;
+}
+article h2  {
+	color: #0F5C73;
+	background-color: #D4F4FF;
+	border-radius: 26px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 37px;
+}
+header h1 {
+	color: #37778A;
+	text-align: center;
+}
+header h2 {
+	margin-left: auto;
+	margin-right: auto;
+	color: #692C0B;
+}
+header h2 {
+	margin-left: auto;
+	margin-right: auto;
+	color: #692C0B;
+}
+nav {
+	text-align: center;
+}
+nav h2 a:link {
+	color: #3C83CC;
+}
+nav h2 a:hover {
+	color: #1262B6;
+	text-decoration: line-through;
+}
+.pppp {
+	height: 250pt;
+	background-position: center center;
+	background-size: cover;
+	background-image: url(329723802_719864509639118_3434062613714498456_n.jpeg);
+}
+
+@media screen{
+}
